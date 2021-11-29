@@ -84,6 +84,26 @@
     "publishDate": "06/29/2021"
   },
   {
+    "url": "https://blog.chain.link/events-and-logging-in-solidity/",
+    "title": "Events and Logging in Solidity",
+    "description": "Learn all about solidity events and logging, with hardhat and brownie examples! With video example: https://www.youtube.com/watch?v=KDYJC85eS5M",
+    "author": "Patrick Collins",
+    "authorGithub": "https://github.com/PatrickAlphaC",
+    "tags": [
+      "solidity",
+      "events",
+      "hardhat",
+      "brownie",
+      "smart contracts",
+      "javascript",
+      "python"
+    ],
+    "skillLevel": "beginner",
+    "timeToRead": "5",
+    "lang": "en",
+    "publishDate": "11/25/2021"
+  },
+  {
     "url": "https://www.youtube.com/watch?v=bdXJmWajZRY",
     "title": "Upgrading your Smart Contracts | A Tutorial & Introduction",
     "description": "Learn how to make contracts that use flash loans. Using Brownie, Solidity, Aave.",
